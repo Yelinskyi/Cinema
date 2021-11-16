@@ -28,7 +28,14 @@ ssrc/main/resources/db.properties.
 src/main/java/mate/util/ConnectionUtil.java - file for configuration.
 
 5️⃣ Run Tomcat 🚀.
+# ⭐ Also you can use Heroku
+I added all the settings for this:
+- system.properties;
+- Procfile;
+- Plugin into pom.xml;
+- You should only deploy in you Heroku profile.
 
+⭐ You can look my Heroku: http://cinema-yelinskyi.herokuapp.com/
 
 
 
