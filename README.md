@@ -21,8 +21,9 @@ In this project you can see the level of my skills in JAVA, OOP, SOLID, WEB, JDB
 2️⃣ MySQL or other DBMS (but you mush correct class ConnectionUtil and your DB).
 
 3️⃣ Configuration properties:
-
-ssrc/main/resources/db.properties.
+`
+    src/main/resources/db.properties.
+`
 
 4️⃣ Run Tomcat 🚀.
 
