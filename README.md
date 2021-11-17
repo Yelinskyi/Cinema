@@ -24,10 +24,8 @@ In this project you can see the level of my skills in JAVA, OOP, SOLID, WEB, JDB
 
 ssrc/main/resources/db.properties.
 
-4️⃣ Configuration connection to DB for:
-src/main/java/mate/util/ConnectionUtil.java - file for configuration.
+4️⃣ Run Tomcat 🚀.
 
-5️⃣ Run Tomcat 🚀.
 # ⭐ Also you can use Heroku
 I added all the settings for this:
 - system.properties;
